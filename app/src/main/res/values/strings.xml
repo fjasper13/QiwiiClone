@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QiwiiClone</string>
+    <string name="cari_layanan_kesehatan" >Cari Layanan Kesehatan</string>
+
+    <string-array name="kesehatanLokasi_array">
+        <item>Semua</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+    </string-array>
+
+    <string-array name="kesehatanPelayanan_array">
+        <item>Semua</item>
+        <item>Poliklinik</item>
+        <item>Rumah Sakit</item>
+
+    </string-array>
+
+    <string-array name="kesehatanPoli_array">
+        <item>Semua</item>
+        <item>Anak</item>
+        <item>Bedah</item>
+
+    </string-array>
+</resources>
